@@ -40,7 +40,7 @@ while True :
         else:
             break
 
-    turn_cnt = 0
+    turn_cnt = 1
 
      
 
